@@ -50,8 +50,6 @@ pip install -r requirements.txt
 python run_api.py
 ```
 
-API will be available at http://127.0.0.1:8000  
-Interactive documentation at http://127.0.0.1:8000/docs
 
 ## API Usage Example
 
